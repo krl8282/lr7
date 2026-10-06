@@ -1,0 +1,3 @@
+lr7
+print("Hellow Kirill")
+print("Hello WOrld")
